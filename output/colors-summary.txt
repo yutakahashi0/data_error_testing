@@ -1,0 +1,14 @@
+SIZE ERROR
+----------
+	color_name
+	pinteger
+
+NOT-NULL CONSTRAINT ERROR
+-------------------------
+	rgb
+	pinteger
+	all_null
+
+SUPERKEY ERROR
+--------------
+	The candidate set of columns is not a superkey.

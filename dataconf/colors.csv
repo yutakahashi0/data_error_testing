@@ -1,0 +1,7 @@
+physical_column_name,pk,not_null_constraint,data_type
+color_name,0,1,VARCHAR(16)
+hex,1,1,CHAR(7)
+rgb,0,1,VARCHAR(11)
+pinteger,0,1,SMALLINT
+realnumber,0,0,REAL
+all_null,0,1,SMALLINT

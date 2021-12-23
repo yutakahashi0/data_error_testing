@@ -1,0 +1,20 @@
+SIZE ERROR
+----------
+	COLUMN      MAX SIZE
+	color_name: 17
+	hex       : 7
+	rgb       : 11
+	pinteger  : 8674000000
+
+NOT-NULL CONSTRAINT ERROR
+-------------------------
+	COLUMN      NULL COUNT
+	color_name: 0
+	hex       : 0
+	rgb       : 1
+	pinteger  : 1
+	all_null  : 10
+
+SUPERKEY ERROR
+--------------
+	The candidate set of columns is not a superkey.
